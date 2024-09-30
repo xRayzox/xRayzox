@@ -29,7 +29,14 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on [Fantasy Premier League Analysis](https://github.com/xRayzox/Fantasy-Premier-League)<br><br>- 🌱 I’m currently learning **Apache Airflow, Kafka, and advanced machine learning integration with data pipelines**<br><br>- 💬 Ask me about **Power BI, PostgreSQL, Apache Airflow, and cloud cost optimization**<br><br>- 📫 How to reach me **wael.hcine@esprit.tn**<br><br>- ⚡ Fun fact **I'm a gaming enthusiast and a fan of Sports like Fantasy Premier League.**</p>
+<p align="left">
+  - 🔭 I’m currently working on <a href="https://github.com/xRayzox/Fantasy-Premier-League">Fantasy Premier League Analysis</a>.<br><br>
+  - 🌱 I’m currently learning <strong>Apache Airflow, Kafka, and advanced machine learning integration with data pipelines</strong>.<br><br>
+  - 💬 Ask me about <strong>Power BI, PostgreSQL, Apache Airflow, and cloud cost optimization</strong>.<br><br>
+  - 📫 How to reach me: <strong><a href="mailto:wael.hcine@esprit.tn">wael.hcine@esprit.tn</a></strong>.<br><br>
+  - ⚡ Fun fact: <strong>I'm a gaming enthusiast and a fan of sports, especially Fantasy Premier League.</strong>
+</p>
+
 
 ###
 
@@ -46,25 +53,25 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="MongoDB logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/airflow/airflow-original-wordmark.svg" height="40" alt="Apache Airflow logo" />
+  <img src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" height="40" alt="Apache Airflow logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spark/spark-original-wordmark.svg" height="40" alt="Apache Spark logo" />
+  <img src="https://icon.icepanel.io/Technology/svg/Apache-Spark.svg" height="40" alt="Apache Spark logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/talend/talend-original.svg" height="40" alt="Talend logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/70/TalendLogoCoral.png" height="40" alt="Talend logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="Docker logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kafka/kafka-original-wordmark.svg" height="40" alt="Kafka logo" />
+  <img src="https://icon.icepanel.io/Technology/png-shadow-512/Apache-Kafka.png" height="40" alt="Kafka logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssis/ssis-original.svg" height="40" alt="SSIS logo" />
+  <img src="https://www.dfarber.com/media/1067/ms_sql_server.png" height="40" alt="SSIS logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original-wordmark.svg" height="40" alt="Hadoop logo" />
+  <img src="https://icon.icepanel.io/Technology/svg/Apache-Hadoop.svg" height="40" alt="Hadoop logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="40" alt="Power BI logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original-wordmark.svg" height="40" alt="Tableau logo" />
+  <img src="https://www.svgrepo.com/show/354428/tableau-icon.svg" height="40" alt="Tableau logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/metabase/metabase-original-wordmark.svg" height="40" alt="Metabase logo" />
+  <img src="https://www.svgrepo.com/show/354063/metabase.svg" height="40" alt="Metabase logo" />
 </div>
 
 
@@ -89,10 +96,10 @@
 ###
 
 <div align="left">
-  [![Wael's GitHub stats](https://github-readme-stats.vercel.app/api?username=xRayzox&show_icons=true&theme=dark&title_color=FFFFFF&text_color=FFFFFF&icon_color=C21807&ring_color=C21807)](https://github.com/anuraghazra/github-readme-stats)
-  
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xRayzox&layout=compact&theme=dark&title_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
+ [![Wael's GitHub stats](https://github-readme-stats.vercel.app/api?username=xRayzox&show_icons=true&theme=dark&title_color=FFFFFF&text_color=FFFFFF&icon_color=C21807&ring_color=C21807)](https://github.com/xRayzox)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xRayzox&layout=compact&theme=dark&title_color=FFFFFF)](https://github.com/xRayzox)
+
 </div>
 
 ###
