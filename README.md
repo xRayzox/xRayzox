@@ -101,7 +101,7 @@
   </a>
   
   <a href="https://github.com/xRayzox">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SplinterTn&layout=compact&theme=dark&title_color=FFFFFF" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xRayzox&layout=compact&theme=dark&title_color=FFFFFF" alt="Top Languages" />
   </a>
 </div>
 
