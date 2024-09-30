@@ -96,10 +96,14 @@
 ###
 
 <div align="left">
- [![Wael's GitHub stats](https://github-readme-stats.vercel.app/api?username=xRayzox&show_icons=true&theme=dark&title_color=FFFFFF&text_color=FFFFFF&icon_color=C21807&ring_color=C21807)](https://github.com/xRayzox)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xRayzox&layout=compact&theme=dark&title_color=FFFFFF)](https://github.com/xRayzox)
-
+  <a href="https://github.com/xRayzox">
+    <img src="https://github-readme-stats.vercel.app/api?username=xRayzox&show_icons=true&theme=dark&title_color=FFFFFF&text_color=FFFFFF&icon_color=C21807&ring_color=C21807" alt="Wael's GitHub stats" />
+  </a>
+  
+  <a href="https://github.com/xRayzox">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xRayzox&layout=compact&theme=dark&title_color=FFFFFF" alt="Top Languages" />
+  </a>
 </div>
+
 
 ###
